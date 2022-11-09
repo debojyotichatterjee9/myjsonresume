@@ -1,0 +1,268 @@
+{
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "Debojyoti Chatterjee",
+        "label": "Developer",
+        "image": "https://s.gravatar.com/avatar/59471df396f2739074bb8f09dbba8763",
+        "email": "debojyoti.chatterjee9@gmail.com",
+        "phone": "+91-9903-409-408",
+        "url": "https://debojyotichatterjee9.github.io/",
+        "summary": "Solution-focused and goal oriented software developer with 6+ years of experince in implementing business solutions. Kind of developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focused developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles and technologies/frameworks.",
+        "location": {
+            "city": "Kolkata",
+            "region": "West Bengal",
+            "countryCode": "IN"
+        },
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "debojyoti-chatterjee",
+                "url": "https://www.linkedin.com/in/debojyoti-chatterjee/"
+            },
+            {
+                "network": "github",
+                "username": "debojyotichatterjee9",
+                "url": "https://github.com/debojyotichatterjee9"
+            },
+            {
+                "network": "twitter",
+                "username": "debojyotichatt",
+                "url": "https://twitter.com/debojyotichatt"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "SimplifyVMS",
+            "position": "Senior Developer/Module Lead",
+            "url": "https://simplifyvms.com/",
+            "startDate": "2020-02",
+            "summary": "Simplify VMS is secure private-cloud Vendor Management System. The solution is built on the most flexible technology stack, operating in the contingent workforce and service procurement market.",
+            "highlights": [
+                "Design, Configuration and Implementation of User Profile Management Service.",
+                "Integrating with third-party services and internal service APIs as a part of implementation.",
+                "Developing new and customization of the existing features for the application.",
+                "Implementation of the set of new API endpoints related to the application, that provided critical connectivity channel for distributed functionality and increase system solidarity keeping manageable code complexity.",
+                "Performing system integration testing for the application modules using Jest that helped to improve system's stability and scalability by identification critical performance issues during development phase.",
+                "Managing and leading the team of software developers worked on the critical APIs. As a result major products updates have been completed on time.",
+                "Reviewing the quality of code for the application maintaining code and design consistency throughout.",
+                "Documenting solution architecture and API services for the internal team of developers reducing the TTCC (time-to-coordinate and code) by 60% ensuring high maintainability.",
+                "Implementation and configuration of the multi-tenant application for clients like Wipro, Evergy, Keybank etc.",
+                "Monitored, documented and prepared daily usage and status reports for clients and internal purposes."
+            ]
+        },
+        {
+            "name": "GoldenLion Consulting Services Pvt. Ltd.",
+            "position": "Developer",
+            "url": "https://www.dochipo.com/",
+            "startDate": "2018-09",
+            "endDate": "2019-12",
+            "summary": "Helping businesses increase revenue, manage sales pipeline through automation. Building a new product DocHipo.",
+            "highlights": [
+                "Development of a new product DocHipo, which is a collaborative graphic design software to create beautiful, engaging documents.",
+                "Building back-end and front-end flow as per flow specifications.",
+                "Building and implementing new features in AngularJS for the front-end architecture.",
+                "Development of REST APIs in Python and MongoDB.( RESTful web services.",
+                "Basic internal documentation for the front-end and back-end engine.",
+                "Integration between front-end layer and back-end web-service.",
+                "Debugging & fixing application and flow related issues.",
+                "Development of workflows triggered by events.",
+                "Test cases & Unit testing using frameworks like Frisby, Puppeteer, JasmineJS."
+            ]
+        },
+        {
+            "name": "Future Focus InfoTech",
+            "position": "Consultant",
+            "url": "https://focusinfotech.com/",
+            "startDate": "2018",
+            "endDate": "2018"
+        },
+        {
+            "name": "HCL Technologies BSERV",
+            "position": "Analyst",
+            "url": "https://hcl.com/",
+            "startDate": "2015",
+            "endDate": "2017"
+        },
+        {
+            "name": "Infosys",
+            "position": "Technical Associate",
+            "url": "https://infosys.com/",
+            "startDate": "2014",
+            "endDate": "2015"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "K.V. FortWilliam Alumni Association",
+            "position": "Secretary",
+            "url": "https://sites.google.com/view/kvfwalumni/home",
+            "startDate": "2020",
+            "summary": "Description…",
+            "highlights": [
+                "Developing, coordinating and evaluating programs and projects to promote alumni relations and educational programs designed to connect alumni through academic channels.",
+                "Developing and presenting educational programs for alumni, including lectures, seminars, and workshops.",
+                "Supervising and training volunteers who work on events, projects and programs.",
+                "Helping current volunteer leadership to identify potential new volunteers and future leadership."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Calcutta Institute of Engineering and Management (WBUT)",
+            "url": "https://ciem.ac.in/",
+            "area": "Information Technology",
+            "studyType": "Bachelor of Information Technology",
+            "startDate": "2010",
+            "endDate": "2014"
+        },
+        {
+            "institution": "Kendriya Vidyalaya, Fort William",
+            "url": "https://fortwilliam.kvs.ac.in/",
+            "area": "CBSE-XII",
+            "studyType": "AISSCE",
+            "startDate": "2009",
+            "endDate": "2010"
+        },
+        {
+            "institution": "Kendriya Vidyalaya, Fort William",
+            "url": "https://fortwilliam.kvs.ac.in/",
+            "area": "CBSE-X",
+            "studyType": "AISSE",
+            "startDate": "2006",
+            "endDate": "2007"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "JavaScript: The Advanced Concepts",
+            "date": "2022-11-07",
+            "issuer": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-c4fe6679-332f-4fc8-acd6-378005879d0e/"
+        },
+        {
+            "name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+            "date": "2022-09-07",
+            "issuer": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-f45905e7-a131-4fbc-8a34-1f62f3817b3e/"
+        },
+        {
+            "name": "Python Django - The Practical Guide",
+            "date": "2021-06-16",
+            "issuer": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-af5befbb-0fda-42b8-9f01-6c5d757f4e20/"
+        },
+        {
+            "name": "Responsive Web Design",
+            "date": "2020-02-24",
+            "issuer": "Free Code Camp",
+            "url": "https://www.freecodecamp.org/certification/fcc5a39a374-ff94-4efd-a577-996ef7f5d436/responsive-web-design"
+        },
+        {
+            "name": "Web Development Bootcamp",
+            "date": "2018-09-15",
+            "issuer": "Jaaga"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Python",
+                "TypeScript",
+                "GoLang"
+            ]
+        },
+        {
+            "name": "Front-End",
+            "level": "Master",
+            "keywords": [
+                "ReactJS",
+                "Angualar",
+                "ElectronJS"
+            ]
+        },
+        {
+            "name": "Back-End",
+            "level": "Master",
+            "keywords": [
+                "NodeJS",
+                "Express Framework",
+                "GraphQL",
+                "Django",
+                "Flask"
+            ]
+        },
+        {
+            "name": "Databases",
+            "level": "Master",
+            "keywords": [
+                "MongoDB",
+                "SQL",
+                "SQLite"
+            ]
+        },
+        {
+            "name": "Testing",
+            "level": "Master",
+            "keywords": [
+                "Jest",
+                "Puppeteer"
+            ]
+        },
+        {
+            "name": "Others",
+            "level": "Master",
+            "keywords": [
+                "Git",
+                "AWS",
+                "New Relic"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Bengali",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Things I Like to do",
+            "keywords": [
+                "Volunteering",
+                "Reading",
+                "Blogging",
+                "Learning Languages",
+                "Travel",
+                "Sports",
+                "Music",
+                "Open Source"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Sunny Ujjwal, Head of Technology @Canvas | Building Creators' Tool",
+            "reference": "An excellent and self-motivated upbeat person who has passion towards coding and technology in general. Debojyoti is interested in solving problems and is fond of Javascript. He is a hard and smart worker and keeps refining his skills and always finds time to learn new things in life."
+        },
+        {
+            "name": "Sougata Pal,Enterprise Architect | CyberSecurity Consultant ",
+            "reference": "Writing about Debojyoti is a great pleasure to me due to his awesome skillsets, deadline orientation and diligence towards the projects. He is rock-steady to handle any complex problem and no matter what happens he will crack it down, it's just a matter of time. Also working with him in a team is great fun due to his wonderful humorous nature."
+        }
+    ]
+}
