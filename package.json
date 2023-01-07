@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1"
+  },
+  "scripts": {
+    "start": "resume serve --theme jsonresume-theme-elegant",
+    "pdf_export": "resume export --theme elegant --format pdf myresume",
+    "html_export": "resume export --theme elegant --format html myresume"
   }
 }
